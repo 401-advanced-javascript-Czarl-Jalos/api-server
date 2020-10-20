@@ -21,3 +21,7 @@ PATCH: Update part of a single record in a data source
 DELETE: Delete a record in a data source 
 
 ## Log of Project Per Day
+
+## DAY 1
+
+i had to review todays lecture to be able to connect it to swagger hub. after remembering that 3.0 doesnt work it finally fixed my problem. it was a ah ha moment when i was getting the responce that i was expected. great day.
