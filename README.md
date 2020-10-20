@@ -1,1 +1,23 @@
-# api-server
+# Dynamic API-SERVER
+An Express/Node.js based server designed to be a “model agnostic” REST API server, which can perform CRUD operations on any data model
+
+# API-SERVER
+Author: Joshua Beasley
+
+## Project Description
+Business Requirements
+We’re opening a online store! In order to support our web application, we need to create an API that will serve specific data (namely, categories and products) to our application. We will write an API to interface with our databases to provide category and product information to our front end app.
+
+As it is highly likely that we will need more data types and sources in the future, it’s imperative that we build this API as a standardized means of working with any data model, using any persistence system, though a common interface. The API Server must operate as follows:
+
+Support all REST/HTTP methods
+GET: Retrieve record(s) from a data source
+All
+One (by id)
+Some (by filtering)
+POST: Create a new record in a data source
+PUT: Update a single full record in a data source
+PATCH: Update part of a single record in a data source
+DELETE: Delete a record in a data source 
+
+## Log of Project Per Day

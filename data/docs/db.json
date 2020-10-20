@@ -1,0 +1,12 @@
+{
+  "categories": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "ball",
+      "category": "sports",
+      "display_name": "basketball",
+      "description": "best sport ever"
+    }
+  ]
+}
