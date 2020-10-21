@@ -4,8 +4,12 @@
   "description": "An Express/Node.js based server designed to be a “model agnostic” REST API server, which can perform CRUD operations on any data model",
   "main": "index.js",
   "dependencies": {
+    "@code-fellows/supergoose": "^1.0.11",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "json-server": "^0.16.2"
+    "jest": "^26.6.0",
+    "json-server": "^0.16.2",
+    "supertest": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
