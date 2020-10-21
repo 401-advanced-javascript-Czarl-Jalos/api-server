@@ -4,6 +4,7 @@
   "description": "An Express/Node.js based server designed to be a “model agnostic” REST API server, which can perform CRUD operations on any data model",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.17.1",
     "json-server": "^0.16.2"
   },
   "devDependencies": {},
