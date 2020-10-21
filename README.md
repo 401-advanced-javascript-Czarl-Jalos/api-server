@@ -25,3 +25,7 @@ DELETE: Delete a record in a data source
 ## DAY 1
 
 i had to review todays lecture to be able to connect it to swagger hub. after remembering that 3.0 doesnt work it finally fixed my problem. it was a ah ha moment when i was getting the responce that i was expected. great day.
+
+## DAY 2 
+
+Todays lab is challenging im glad our TA is very helpful i cannot review the lecture on frontrow due to not being uploaded. overall i learned alot on how the object moves around the server.
